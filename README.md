@@ -1,0 +1,3 @@
+# Scikit-Learn and TensorFlow
+
+- This repo is meant to provide a centralized location for small machine learning projects out of the book Hands-On Machine Learning with Scikit-Learn and TensorFlow moving or any code that has simply been refactored to use Scikit-Learn or TensorFlow for practice/efficiency (See e.g. TensorFlow/Fermi_Gas_Oscillation_Fitting where I simply refactored previous code that had already lead to published results).
