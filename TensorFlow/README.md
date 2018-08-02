@@ -1,0 +1,1 @@
+# This folder will hold TensorFlow projects. Some of the data used for these projects will be available according to included documentation. Please see read me for the particular project.
